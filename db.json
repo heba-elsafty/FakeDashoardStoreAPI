@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple Watch",
+      "location": "6068 Maryland Landing",
+      "date_time": 1717361154,
+      "piece": 423,
+      "image": "https://product.hstatic.net/200000373523/product/637361539957453235_apple_watch_20series_6_20gps_40mm_20hong_201_1__749ca59d8ea642cd8136d266b0bbc8d1.png",
+      "amount": "34,295",
+      "status": 2
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "location": "2024 New Design Rd",
+      "date_time": 1717361155,
+      "piece": 120,
+      "image": "https://unsplash.com/photos/black-sony-remote-control-beside-white-tissue-paper-uCqMa_s-JDg",
+      "amount": "899",
+      "status": 5
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro",
+      "location": "408 Apple Park Way",
+      "date_time": 1717361156,
+      "piece": 95,
+      "image": "https://unsplash.com/photos/turned-on-laptop-on-table-HyTwtsk8XqA",
+      "amount": "1999",
+      "status": 1
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13",
+      "location": "550 Dell Road",
+      "date_time": 1717361157,
+      "piece": 60,
+      "image": "https://unsplash.com/photos/black-and-silver-asus-laptop-computer-i5UV2HpITYA",
+      "amount": "1299",
+      "status": 4
+    },
+    {
+      "id": 5,
+      "name": "Sony WH-1000XM4 Headphones",
+      "location": "350 Audio Blvd",
+      "date_time": 1717361158,
+      "piece": 150,
+      "image": "https://unsplash.com/photos/a-pair-of-headphones-sitting-on-top-of-each-other-A6hzRnwR3vM",
+      "amount": "349",
+      "status": 3
+    },
+      {
+      "id": 6,
+      "name": "Google Pixel 6",
+      "location": "123 Silicon Valley",
+      "date_time": 1717361160,
+      "piece": 80,
+      "image": "https://unsplash.com/photos/a-white-cell-phone-sitting-on-top-of-a-table-PE97QBw-LHc",
+      "amount": "699",
+      "status": 1
+    },
+    {
+      "id": 7,
+      "name": "Bose QuietComfort Earbuds",
+      "location": "789 Audio Street",
+      "date_time": 1717361161,
+      "piece": 130,
+      "image": "https://unsplash.com/photos/black-and-white-headphones-on-white-table-6V5vTuoeCZg",
+      "amount": "279",
+      "status": 2
+    },
+    {
+      "id": 8,
+      "name": "Nintendo Switch",
+      "location": "456 Game Rd",
+      "date_time": 1717361162,
+      "piece": 200,
+      "image": "https://unsplash.com/photos/white-nintendo-switch-beside-black-usb-flash-drive-UuLX0r-gKJI",
+      "amount": "299",
+      "status": 5
+    },
+    {
+      "id": 9,
+      "name": "Canon EOS R5",
+      "location": "321 Camera Ave",
+      "date_time": 1717361163,
+      "piece": 40,
+      "image": "https://unsplash.com/photos/a-camera-sitting-on-top-of-a-rock-next-to-a-cactus-Ia-iCu0ANMc",
+      "amount": "3899",
+      "status": 4
+    },
+    {
+      "id": 10,
+      "name": "Fitbit Charge 4",
+      "location": "654 Fitness Blvd",
+      "date_time": 1717361164,
+      "piece": 150,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9RS_XGh2EBd6BMN433FMWAm1OKpTaghtFA&s",
+      "amount": "149",
+      "status": 3
+    }
+  ]
+}
