@@ -6,7 +6,12 @@
       "location": "6068 Maryland Landing",
       "date_time": 1717361154,
       "piece": 423,
-      "image": "https://product.hstatic.net/200000373523/product/637361539957453235_apple_watch_20series_6_20gps_40mm_20hong_201_1__749ca59d8ea642cd8136d266b0bbc8d1.png",
+      "images": [
+        "https://app.gemoo.com/share/image-annotation/659243040136372224?codeId=MlaglmBjZp20o",
+        "https://app.gemoo.com/share/image-annotation/659243602324103168?codeId=MlaglmBjZp20o",
+        "https://app.gemoo.com/share/image-annotation/659244151077453824?codeId=MlaglmBjZp20o",
+        "https://app.gemoo.com/share/image-annotation/659244004494954496?codeId=MlaglmBjZp20o"
+      ],
       "amount": "34,295",
       "status": 2
     },
@@ -16,7 +21,9 @@
       "location": "2024 New Design Rd",
       "date_time": 1717361155,
       "piece": 120,
-      "image": "https://static.doji.co/product/medias/smartphones/samsung/galaxy-s21-5g/1-front-back-phantom-violet.png",
+      "images": [
+        "https://static.doji.co/product/medias/smartphones/samsung/galaxy-s21-5g/1-front-back-phantom-violet.png"
+      ],
       "amount": "899",
       "status": 5
     },
@@ -26,7 +33,9 @@
       "location": "408 Apple Park Way",
       "date_time": 1717361156,
       "piece": 95,
-      "image": "https://149426355.v2.pressablecdn.com/wp-content/uploads/2021/10/mbp-2021-bbedit-lede.png",
+      "images": [
+        "https://149426355.v2.pressablecdn.com/wp-content/uploads/2021/10/mbp-2021-bbedit-lede.png"
+      ],
       "amount": "1999",
       "status": 1
     },
@@ -36,7 +45,9 @@
       "location": "550 Dell Road",
       "date_time": 1717361157,
       "piece": 60,
-      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/landing-page/xps-13-plus/xps-13-plus-02.png?qlt=95&fit=constrain,1&hei=800&wid=1619&fmt=png-alpha",
+      "images": [
+        "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/landing-page/xps-13-plus/xps-13-plus-02.png?qlt=95&fit=constrain,1&hei=800&wid=1619&fmt=png-alpha"
+      ],
       "amount": "1299",
       "status": 4
     },
@@ -46,17 +57,21 @@
       "location": "350 Audio Blvd",
       "date_time": 1717361158,
       "piece": 150,
-      "image": "https://thesourceav.com/cdn/shop/files/111296_original_local_1200x1050_converted_1200x.png?v=1703370145",
+      "images": [
+        "https://thesourceav.com/cdn/shop/files/111296_original_local_1200x1050_converted_1200x.png?v=1703370145"
+      ],
       "amount": "349",
       "status": 3
     },
-      {
+    {
       "id": 6,
       "name": "Google Pixel 6",
       "location": "123 Silicon Valley",
       "date_time": 1717361160,
       "piece": 80,
-      "image": "https://www.techspot.com/images/products/2021/smartphones/org/2021-10-19-product-2.jpg",
+      "images": [
+        "https://www.techspot.com/images/products/2021/smartphones/org/2021-10-19-product-2.jpg"
+      ],
       "amount": "699",
       "status": 1
     },
@@ -66,7 +81,9 @@
       "location": "789 Audio Street",
       "date_time": 1717361161,
       "piece": 130,
-      "image": "https://assets.bosecreative.com/transform/a656f78f-8227-4639-ac75-19c3c65538ae/QCEB_Color_Variants_RGB",
+      "images": [
+        "https://assets.bosecreative.com/transform/a656f78f-8227-4639-ac75-19c3c65538ae/QCEB_Color_Variants_RGB"
+      ],
       "amount": "279",
       "status": 2
     },
@@ -76,7 +93,9 @@
       "location": "456 Game Rd",
       "date_time": 1717361162,
       "piece": 200,
-      "image": "https://e7.pngegg.com/pngimages/26/481/png-clipart-nintendo-switch-splatoon-2-hyrule-warriors-joy-con-blue-neon-wordart-gadget-electronics-thumbnail.png",
+      "images": [
+        "https://e7.pngegg.com/pngimages/26/481/png-clipart-nintendo-switch-splatoon-2-hyrule-warriors-joy-con-blue-neon-wordart-gadget-electronics-thumbnail.png"
+      ],
       "amount": "299",
       "status": 5
     },
@@ -86,7 +105,9 @@
       "location": "321 Camera Ave",
       "date_time": 1717361163,
       "piece": 40,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BGkyqqcJnE7VhTY1HtVil5o1pKjsDraFng&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BGkyqqcJnE7VhTY1HtVil5o1pKjsDraFng&s"
+      ],
       "amount": "3899",
       "status": 4
     },
@@ -96,7 +117,9 @@
       "location": "654 Fitness Blvd",
       "date_time": 1717361164,
       "piece": 150,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9RS_XGh2EBd6BMN433FMWAm1OKpTaghtFA&s",
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9RS_XGh2EBd6BMN433FMWAm1OKpTaghtFA&s"
+      ],
       "amount": "149",
       "status": 3
     }
