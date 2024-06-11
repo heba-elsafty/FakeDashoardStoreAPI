@@ -13,7 +13,9 @@
         "https://i.postimg.cc/R0Bpmk3g/Image.png"
       ],
       "amount": "34,295",
-      "status": 2
+      "status": 2,
+      "rating": 4.5,
+      "review_Count": 131
     },
     {
       "id": 2,
@@ -25,7 +27,9 @@
         "https://static.doji.co/product/medias/smartphones/samsung/galaxy-s21-5g/1-front-back-phantom-violet.png"
       ],
       "amount": "899",
-      "status": 5
+      "status": 5,
+      "rating": 4.7,
+      "review_Count": 200
     },
     {
       "id": 3,
@@ -37,7 +41,9 @@
         "https://149426355.v2.pressablecdn.com/wp-content/uploads/2021/10/mbp-2021-bbedit-lede.png"
       ],
       "amount": "1999",
-      "status": 1
+      "status": 1,
+      "rating": 4.8,
+      "review_Count": 350
     },
     {
       "id": 4,
@@ -49,7 +55,9 @@
         "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/landing-page/xps-13-plus/xps-13-plus-02.png?qlt=95&fit=constrain,1&hei=800&wid=1619&fmt=png-alpha"
       ],
       "amount": "1299",
-      "status": 4
+      "status": 4,
+      "rating": 4.6,
+      "review_Count": 160
     },
     {
       "id": 5,
@@ -61,7 +69,9 @@
         "https://thesourceav.com/cdn/shop/files/111296_original_local_1200x1050_converted_1200x.png?v=1703370145"
       ],
       "amount": "349",
-      "status": 3
+      "status": 3,
+      "rating": 4.9,
+      "review_Count": 250
     },
     {
       "id": 6,
@@ -73,7 +83,9 @@
         "https://www.techspot.com/images/products/2021/smartphones/org/2021-10-19-product-2.jpg"
       ],
       "amount": "699",
-      "status": 1
+      "status": 1,
+      "rating": 4.3,
+      "review_Count": 120
     },
     {
       "id": 7,
@@ -85,7 +97,9 @@
         "https://assets.bosecreative.com/transform/a656f78f-8227-4639-ac75-19c3c65538ae/QCEB_Color_Variants_RGB"
       ],
       "amount": "279",
-      "status": 2
+      "status": 2,
+      "rating": 4.7,
+      "review_Count": 180
     },
     {
       "id": 8,
@@ -97,7 +111,9 @@
         "https://e7.pngegg.com/pngimages/26/481/png-clipart-nintendo-switch-splatoon-2-hyrule-warriors-joy-con-blue-neon-wordart-gadget-electronics-thumbnail.png"
       ],
       "amount": "299",
-      "status": 5
+      "status": 5,
+      "rating": 3,
+      "review_Count": 210
     },
     {
       "id": 9,
@@ -109,7 +125,9 @@
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BGkyqqcJnE7VhTY1HtVil5o1pKjsDraFng&s"
       ],
       "amount": "3899",
-      "status": 4
+      "status": 4,
+       "rating": 4.8,
+      "review_Count": 95
     },
     {
       "id": 10,
@@ -121,7 +139,9 @@
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9RS_XGh2EBd6BMN433FMWAm1OKpTaghtFA&s"
       ],
       "amount": "149",
-      "status": 3
+      "status": 3,
+      "rating": 4.2,
+      "review_Count": 130
     }
   ]
 }
