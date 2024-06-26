@@ -1,5 +1,5 @@
 {
-  "products": {
+  "products": 
     data:[
     {
       "id": 1,
@@ -145,6 +145,5 @@
       "review_Count": 130
     }
   ], 
-  }, 
    "favorites": []
 }
