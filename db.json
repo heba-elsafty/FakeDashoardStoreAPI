@@ -1,5 +1,6 @@
 {
-  "products":[
+  "products": {
+    data:[
     {
       "id": 1,
       "name": "Apple Watch",
@@ -143,6 +144,7 @@
       "rating": 4.2,
       "review_Count": 130
     }
-  ],
+  ], 
+  }, 
    "favorites": []
 }
