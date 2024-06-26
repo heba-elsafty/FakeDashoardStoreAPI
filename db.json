@@ -1,6 +1,5 @@
 {
-  "products": 
-    data:[
+  "products":[
     {
       "id": 1,
       "name": "Apple Watch",
